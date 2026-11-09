@@ -1,6 +1,6 @@
 {
-  "versao": "2.8.0",
+  "versao": "2.8.1",
   "data": "2026-11-09",
-  "notas": "Efeitos sonoros seus: peça pro agente um som novo (\"cria um som de moeda pro meu canal\") e ele cria em código ou importa um arquivo. No roteiro, \"som\" toca um efeito na frase, sem precisar de cena própria.",
+  "notas": "Ajuda e CLI → Ligar no agente (MCP): o passo a passo à vista, com o comando pronto do Claude Code e do Codex, o teste, como conferir se está ligado, como parar e como tirar.",
   "link": "https://danisaints.com/members/area"
 }
