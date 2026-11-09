@@ -1,6 +1,6 @@
 {
-  "versao": "2.5.0",
-  "data": "2026-11-08",
-  "notas": "Sem agente instalado? Crie o vídeo no painel com a sua chave do OpenRouter: um agente próprio entende o assunto, monta a cena sob medida, confere cada cena olhando a imagem e faz o vídeo, com limite de custo. Personagens que o agente cria: peça um mascote e ele monta em código, com skins, salvo na sua biblioteca pra todos os vídeos.",
+  "versao": "2.5.1",
+  "data": "2026-11-09",
+  "notas": "A legenda da voz da Cartesia sempre usa o texto do roteiro, com a grafia certa (sites, nomes, siglas e números), e não o que o reconhecimento de fala ouviu. A narração da Cartesia não para mais em siglas e sites (\"Tempos de transcrição inválidos\").",
   "link": "https://danisaints.com/members/area"
 }
